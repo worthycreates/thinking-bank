@@ -11,14 +11,14 @@
             "id": "e85eddf715bed843",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "templates/Map.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Map"
             }
           }
         ]
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Map"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Map"
             }
           },
           {
@@ -170,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "templates/Map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Map"
             }
           },
           {
