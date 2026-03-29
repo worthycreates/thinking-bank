@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Placeholder Test.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Placeholder Test"
+              "title": "index"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Placeholder Test.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Placeholder Test"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Placeholder Test.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Placeholder Test"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Placeholder Test.md",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Placeholder Test"
+              "title": "Outline of index"
             }
           },
           {
@@ -212,8 +212,9 @@
   },
   "active": "e85eddf715bed843",
   "lastOpenFiles": [
+    "content/Placeholder.md",
+    "content/index.md",
     "templates/Map.md",
-    "content/Placeholder Test.md",
     "content",
     "templates/Idea.md",
     "templates/Essay.md",
